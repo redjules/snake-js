@@ -1,5 +1,5 @@
 # Snake game with JS
-In this project, we recreate the mythical Snake game in Vanilla Javascript.
+In this project, I recreate the mythical Snake game in Vanilla Javascript.
 
 
 ## Snpashot
